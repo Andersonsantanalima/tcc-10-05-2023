@@ -6,9 +6,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>tcc</title>
+    <link rel="shortcut icon" href="./imagens/esporte-imagem-animada-0415.gif" type="image/x-icon">
+    <title>SF Athlrtic</title>
 </head>
-<body>
+<body >
+    <header></header>
     <a href="?page=1">home</a>
     <a href="?page=2">Cadastro</a>
     <a href="?page=3">Entrar</a>
